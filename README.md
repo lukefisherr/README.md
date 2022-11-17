@@ -1,6 +1,6 @@
 # Luke Fisher
-### [Hobbies](https://github.com/lukefisha/Hobbies.md.git)
-### [Family](https://github.com/lukefisha/Family.md.git)
+### [Hobbies](https://github.com/lukefisherr/Hobbies.md.git)
+### [Family](https://github.com/lukefisherr/Family.md.git)
 
 ## About Me
 
